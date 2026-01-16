@@ -205,5 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 EXERCISES.md
 SCRIPT.md
+=======
+
+transactions.npz
+>>>>>>> 1cabce875fc56611045aeed7c7ebcd860dfe474b
