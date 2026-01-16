@@ -86,6 +86,7 @@ Part 2: External datasets included in repository
 
 - Exercise 2.1: exercices/2.1/real_drug_dataset.csv
 - Exercise 2.2: exercices/2.2/Housing.csv
+- Exercise 2.3: `exercices/2.3/revenus_fiscaux.csv`, `exercices/2.3/prix_m2.csv`
 
 ## Exercises Overview
 
@@ -113,6 +114,10 @@ Multi-class classification to predict treatment effectiveness (Poor/Moderate/Goo
 ### 2.2 - House Pricing Regression
 
 Regression to predict residential property prices
+
+### 2.3 - City Profile Clustering
+
+Unsupervised learning (K-Means) to group cities into profiles (Rich, Middle Class, Poor) based on economic and real estate data.
 
 ## Troubleshooting
 
